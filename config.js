@@ -3,6 +3,7 @@ const config = {
   "subwaybuilderLocation": "/Applications/Subway Builder.app", 
   "platform": "macos", // 'macos', 'linux' or 'windows'
   "packagesToRun": [
+  "addTrains",
   "mapPatcher"
 ]
 };
